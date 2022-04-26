@@ -1,0 +1,224 @@
+Uri: https://entropy.club/
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\index.htm
+Content Type: text/html
+
+Uri: https://entropy.club/assets/css/animate.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://entropy.club/assets/css/bootstrap.min.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://entropy.club/assets/css/line-icons.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\css\line-icons.css
+Content Type: text/css
+
+Uri: https://entropy.club/assets/css/main.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\css\main.css
+Content Type: text/css
+
+Uri: https://entropy.club/assets/fonts/LineIcons.eot
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://entropy.club/assets/fonts/LineIcons.svg
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://entropy.club/assets/fonts/LineIcons.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\fonts\LineIcons.ttf
+Content Type: application/octet-stream
+
+Uri: https://entropy.club/assets/fonts/LineIcons.woff
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\fonts\LineIcons.woff
+Content Type: application/font-woff
+
+Uri: https://entropy.club/assets/fonts/LineIcons.woff2
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\fonts\LineIcons.woff2
+Content Type: application/octet-stream
+
+Uri: https://entropy.club/assets/images/gui.png
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\images\gui.png
+Content Type: image/png
+
+Uri: https://entropy.club/assets/js/bootstrap.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/assets/js/count-up.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\js\count-up.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/assets/js/main.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/assets/js/wow.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/assets/css/connect.min.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\css\connect.min.css
+Content Type: text/css
+
+Uri: https://entropy.club/dashboard/assets/css/custom.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://entropy.club/dashboard/assets/css/dark_theme.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\css\dark_theme.css
+Content Type: text/css
+
+Uri: https://entropy.club/dashboard/assets/images/logo.ico
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\images\logo.ico
+Content Type: image/x-icon
+
+Uri: https://entropy.club/dashboard/assets/js/connect.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\js\connect.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/assets/plugins/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://entropy.club/dashboard/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/assets/plugins/bootstrap/popper.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\bootstrap\popper.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/assets/plugins/font-awesome/css/all.min.css
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://entropy.club/dashboard/assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\jquery-slimscroll\jquery.slimscroll.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/assets/plugins/jquery/jquery-3.4.1.min.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\assets\plugins\jquery\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://entropy.club/dashboard/forgot
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\forgot.html
+Content Type: text/html
+
+Uri: https://entropy.club/dashboard/login
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\login.html
+Content Type: text/html
+
+Uri: https://entropy.club/dashboard/register
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\dashboard\register.html
+Content Type: text/html
+
+Uri: https://entropy.club/index.html
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\index.html
+Content Type: text/html
+
+Uri: https://entropy.club/terms.html
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\terms.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v8/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\inter\v8\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\lato\v22\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v127/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\materialicons\v127\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialiconsoutlined/v102/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\materialiconsoutlined\v102\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconsround/v101/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmM.otf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\materialiconsround\v101\LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmM.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconssharp/v102/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvS.otf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\materialiconssharp\v102\oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvS.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialiconstwotone/v105/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu3.otf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\materialiconstwotone\v105\hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu3.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\HideLeOuf\Desktop\site\entropy.club\recaptcha\api.js
+Content Type: text/javascript
+
